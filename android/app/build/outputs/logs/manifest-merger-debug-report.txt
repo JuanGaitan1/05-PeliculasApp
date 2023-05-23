@@ -12,6 +12,7 @@ MERGED from [:react-native-masked-view_masked-view] C:\Users\diabl\OneDrive\Escr
 MERGED from [:react-native-gesture-handler] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-gesture-handler\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-safe-area-context] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.react:react-android:0.71.7] C:\Users\diabl\.gradle\caches\transforms-3\84bec54958abf3a45efcfc6e26585866\transformed\jetified-react-android-0.71.7-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\diabl\.gradle\caches\transforms-3\091aa78edfb1f2d80073a0612085f398\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.facebook.react:hermes-android:0.71.7] C:\Users\diabl\.gradle\caches\transforms-3\6df4b61676b98e2abf6f727efdf7f5ae\transformed\jetified-hermes-android-0.71.7-debug\AndroidManifest.xml:2:1-9:12
@@ -184,6 +185,8 @@ MERGED from [:react-native-safe-area-context] C:\Users\diabl\OneDrive\Escritorio
 MERGED from [:react-native-safe-area-context] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-safe-area-context\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-screens\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] C:\Users\diabl\OneDrive\Escritorio\05-PeliculasApp\node_modules\react-native-vector-icons\android\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.7] C:\Users\diabl\.gradle\caches\transforms-3\84bec54958abf3a45efcfc6e26585866\transformed\jetified-react-android-0.71.7-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.react:react-android:0.71.7] C:\Users\diabl\.gradle\caches\transforms-3\84bec54958abf3a45efcfc6e26585866\transformed\jetified-react-android-0.71.7-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\diabl\.gradle\caches\transforms-3\091aa78edfb1f2d80073a0612085f398\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
